@@ -21,3 +21,13 @@ aside{
 	background: #98aed6;
 	margin-top: 15px;
 }
+
+
+@media (max-width: 768px) {
+	section{
+		width: 100%;
+	}
+	aside{
+		width: 100%;
+	}
+}
